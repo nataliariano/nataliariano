@@ -12,10 +12,10 @@
 - 💻 I use almost daily: **C#** , **.NodeJS** , **PYTHON**, **REACT**
 - 💻 Lately I use a lot: **AzureAI** **Jupyter Notebooks** , **Watson Studio** , **Powershell**
 - 🎯 I am currently training myself in **Machine Learning ** 
-- 💬 Talk to me about machine learning, backend development, marketing & startups
-- 📅 In my free time I solve programming challenges at Codewars, cook, read, ...
+- 💬 Talk to me about machine learning, full stack development, marketing & startups
+- 📅 In my free time I solve programming challenges at Codewars, and enjoy to be with my son ...
 - 👯 We can connect and workout with Zumba! 💃🏻
-- ⚡ Fun fact: Hablo Espanol
+- ⚡ Fun fact: Hablo Español
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
@@ -45,9 +45,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edilma&theme=dark)](https://git.io/streak-stats)
 
 
-⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.60 % as on ⏰ 18-Apr-2023
-
-![Practie](https://www.codewars.com/users/edilma/badges/large)
 
 
 </a>
