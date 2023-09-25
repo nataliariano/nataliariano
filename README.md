@@ -9,7 +9,7 @@
 ###  About Me:
 - 🏦 I'm a Software Engineer with a background in growth marketing and an interest in AI and ML 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use almost daily: **C#** ,  **.NodeJS** , **PYTHON**, **REACT**
+- 💻 I use almost daily: **JS** ,  **.NodeJS** , **PYTHON**, **REACT**
 - 💻 Lately I use a lot: **AzureAI** **Jupyter Notebooks** , **Watson Studio** , **Powershell**
 - 🎯 I am currently training myself in **Machine Learning ** 
 - 💬 Talk to me about machine learning, full stack development, marketing & startups
